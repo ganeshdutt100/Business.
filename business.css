@@ -1,0 +1,408 @@
+@import url("https://fonts.googleapis.com/css2?family=Balsamiq+Sans:wght@700&family=Crimson+Pro:wght@600&display=swap");
+* {
+  margin: 0;
+  padding: 0;
+}
+.sec-1 {
+  background: url("https://jevelin.shufflehound.com/business/wp-content/uploads/sites/39/2019/11/Rectangle-1-copy-7.jpg?id=10")
+    no-repeat;
+  background-size: cover;
+  height: 150vh;
+  background-blend-mode: darken;
+}
+.sec-1-nav ul {
+  display: flex;
+  margin: 1px 16px;
+}
+.sec-1-nav li {
+  padding: 16px 11px;
+  color: white;
+  list-style: none;
+  font-size: 17px;
+}
+
+.sec-1-right {
+  float: right;
+  margin: -44px 29px;
+  color: white;
+}
+.icons {
+  padding: 1px 2px;
+}
+.sec-1-image img {
+  margin: 57px 66px;
+}
+.sec-1-list {
+  margin: 1px;
+}
+
+.sec-1-list-ol {
+  font-family: "Balsamiq Sans", cursive;
+  cursor: pointer;
+  display: flex;
+  margin: -97px 59px;
+  justify-content: right;
+}
+.sec-1-list-ol-button {
+  margin: 1px 9px;
+  background-color: blue;
+  padding: 6px 12px;
+  border-radius: 7px;
+}
+.sec-1-list-ol-button:hover {
+  background-color: rgb(81, 81, 244);
+}
+.sec-1-list-home:hover {
+  background-color: none;
+  border-radius: 20px;
+  color: blue;
+  text-decoration: underline rgb(137, 137, 145);
+}
+.sec-1-heading {
+  font-family: "Balsamiq Sans", cursive;
+  margin: 223px 2px;
+  color: white;
+  display: flex;
+  justify-content: center;
+  font-size: 29px;
+  font-family: math;
+}
+.sec-1-heading span {
+  margin: 1px;
+  font-size: 80px;
+}
+.sec-1-heading a {
+  margin: 1px;
+  padding: 1px 266px;
+}
+
+.sec-1-icons-lines {
+  display: flex;
+  color: white;
+  justify-content: space-around;
+  font-family: "Balsamiq Sans";
+}
+.sec-1-icons-lines-h {
+  margin: 1px;
+  font-size: 21px;
+  padding: 13px 6px;
+}
+.sec-1-icons-lines-p {
+  margin: 1px;
+  line-height: 1.8;
+}
+.sec-1-mobile {
+  margin: 1px;
+}
+.sec-1-Customizable {
+  margin: 1px;
+}
+.sec-1-Affordable {
+  margin: 1px;
+}
+
+/* section 2 */
+
+.sec-2-main {
+  display: flex;
+  margin: 120px 27px;
+}
+.sec-2-first-hlaf {
+  margin: 1px;
+}
+.sec-2-bg {
+  margin: 1px;
+  font-size: 51px;
+  font-family: math;
+  padding: 12px 56px;
+}
+.sec-2-sm {
+  margin: 1px;
+  font-size: 25px;
+  padding: 9px 67px;
+  color: #5d5b5b;
+}
+.n15k {
+  display: flex;
+  justify-content: space-around;
+  margin: 51px 44px;
+  font-size: 54px;
+  color: blue;
+}
+.sec-2-num span {
+  margin: 1px;
+  font-size: 20px;
+  color: black;
+  padding: 1px -11px;
+}
+.sec-2-no span {
+  margin: 1px;
+  font-size: 20px;
+  color: black;
+  padding: 1px 2px;
+}
+.sec-2-second-hlaf img {
+  margin: 1px;
+  border-radius: 18px;
+}
+
+.sec-2-btn {
+  background-color: blue;
+  margin: 19px 164px;
+  color: white;
+  font-size: 19px;
+  border: none;
+  border-radius: 7px;
+  padding: 14px 18px;
+}
+
+.sec-2-pera {
+  color: blue;
+  /* margin: 132px 594px; */
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  font-size: 27px;
+  padding: 17px 0px;
+  margin: -4px 0px;
+}
+
+.sec-2-pera span {
+  color: black;
+  font-size: 68px;
+}
+
+.sec-3 {
+  display: flex;
+  margin: 185px 17px;
+}
+.sec-3-pera-1 {
+  margin: 0px 15px;
+  border-top-width: 2px !important;
+  border-right-width: 2px !important;
+  border-bottom-width: 2px !important;
+  border-left-width: 2px !important;
+  padding-top: 80px !important;
+  padding-bottom: 40px !important;
+  border-left-color: #f0efff !important;
+  border-left-style: solid !important;
+  border-right-color: #f0efff !important;
+  border-right-style: solid !important;
+  border-top-color: #f0efff !important;
+  border-top-style: solid !important;
+  border-bottom-color: #f0efff !important;
+  border-bottom-style: solid !important;
+  border-radius: 10px !important;
+}
+
+.sec-3-pera {
+  margin: 2px 3px;
+  font-size: 28px;
+  padding: 26px 45px;
+  font-family: math;
+}
+.sec-3-pera-sm {
+  margin: 2px 3px;
+  font-size: 21px;
+  padding: 2px 21px;
+  color: #6d6969;
+}
+/* section 4 */
+
+.sec-4 {
+  background: url("https://jevelin.shufflehound.com/business/wp-content/uploads/sites/39/2019/11/Rectangle-532-copy.jpg?id=11")
+    no-repeat;
+  background-size: cover;
+  height: 130vh;
+  background-blend-mode: darken;
+}
+.sec-4-main {
+  color: white;
+  display: flex;
+  /* justify-content: center; */
+  align-items: center;
+  flex-direction: column;
+  margin: 24px 10px;
+  padding: 270px 12px;
+}
+
+.sec-4-bh {
+  margin: 1px 3px;
+  font-size: 77px;
+  font-family: "Balsamiq Sans";
+}
+.sec-4-bh span {
+  padding: 1px 82px;
+}
+.sec-4-pg {
+  margin: 2px 2px;
+  font-size: 31px;
+}
+
+/* section 5 */
+.sec-5-main {
+  margin: 0px 0px;
+  display: flex;
+  margin: 122px 0px;
+}
+.sec-5-first {
+  margin: 0px 0px;
+}
+.sec-5-bg {
+  margin: 3px;
+  font-size: 50px;
+  padding: 5px 1px;
+  padding-top: 99px;
+  font-family: "Balsamiq Sans";
+
+}
+.sec-5-sm {
+  margin: 0px 0px;
+  font-size: 20px;
+  padding: 32px 4px;
+  color: gray;
+}
+.sec-5-scond {
+  margin: 5px 45px;
+  background: #efeeee;
+border-radius: 15px;
+  padding: 91px 1px;
+}
+
+.sec-5-1 {
+  margin: 2px 57px;
+  font-size: 35px;
+  font-family: "Balsamiq Sans";
+}
+.sec-5-2 {
+  color: blue;
+  margin: 2px 20px;
+  font-size: 58px;
+  padding: 1px 43px;
+}
+.sec-5-3 {
+  margin: 0px 0px;
+  font-size: 19px;
+  padding: 12px 60px;
+  color: gray;
+}
+.sec-5-4 {
+  margin: 0px 0px;
+  padding: 11px 47px;
+  font-size: 20px;
+  line-height: 2;
+}
+.sec-5-btn {
+  margin: 3px 57px;
+  font-size: 20px;
+  border: 2px solid blue;
+  padding: 15px 17px;
+  border-radius: 9px;
+}
+
+.sec-5-Third {
+    background: #efeeee;
+    margin: 0px 1px;
+    border: 2px solid blue;
+    border-radius: 13px;
+    padding-top: 91px;
+}
+.sec-5-btn-1{
+    background-color: blue;
+    margin: 3px 57px;
+    font-size: 20px;
+    border: 2px solid blue;
+    padding: 15px 17px;
+    color: white;
+    border-radius: 9px;
+}
+
+/* section6 */
+.sec-6{
+    background: url('https://jevelin.shufflehound.com/business/wp-content/uploads/sites/39/2019/11/Rectangle-534-copy.jpg?id=12') no-repeat;
+    background-size: cover;
+    height: 130vh;
+    background-blend-mode: darken;
+}
+.sec-6-main {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+    margin: 117px 3px;
+    padding: 400px 90px;
+}
+.sec-6-bh{
+    
+    font-size: 25px;
+    /* margin: 292px 41px; */
+    color: #b6b1ff;
+    padding: 12px 56px;
+}
+.sec-6-sp {
+    margin: 1px;
+    color: white;
+    font-size: 55px;
+    font-family: math;}
+.sec-6-btn {
+    margin: 1px;
+    color: white;
+    background: none;
+    padding: 20px 57px;
+    font-size: 24px;
+    border: 2px solid blue;
+    border-radius: 9px;}
+    .sec-6-btn:hover{
+        cursor: pointer;
+        background-color: blueviolet;
+    }
+
+    .sec-7{
+        margin: 1px 2px;
+        background-color:  #181717;
+        height: 80vh;
+        color: white;
+    }
+
+    .sec-7-main{
+        margin: 1px 2px;
+        align-items: cen center;
+        display: flex;
+        justify-content: space-around;
+        margin: 10px 1px;
+    }
+    .sec-7-image {
+        margin: 48px 2px;
+    }
+    .sec-7-pera {
+        margin: 10px -27px;
+        font-size: 20px;
+    }
+    .sec-7second {
+        margin: 1px 2px;
+        padding: 64px 2px;
+        line-height: 1.5;
+        font-size: 19px;
+        color: gray;
+    }
+    .sec-7second span{
+        font-size:22px ;
+        color: white;
+        font-weight: bold;
+    }
+
+    .sec-7-footer{
+        margin: 58px 52px;
+
+    }
+
+  .footer ul{
+    display: flex;
+    float: right;
+  }
+  .footer ul li{
+    padding: 19px 25px;
+    list-style: none;
+    margin: -84px -3px;
+  }
